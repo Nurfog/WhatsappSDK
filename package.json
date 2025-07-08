@@ -58,9 +58,6 @@
 		"url": "https://github.com/WhatsApp/WhatsApp-Nodejs-SDK/issues"
 	},
 	"homepage": "https://whatsapp.github.io/WhatsApp-Nodejs-SDK/",
-	"dependencies": {
-		"@types/node": "~18.11.18"
-	},
 	"devDependencies": {
 		"@babel/cli": "^7.21.0",
 		"@babel/core": "^7.21.4",
@@ -71,6 +68,7 @@
 		"@jest/globals": "~29.5.0",
 		"@types/jest": "^29.5.0",
 		"@types/module-alias": "~2.0.1",
+		"@types/node": "^18.14.1",
 		"@typescript-eslint/eslint-plugin": "~5.57.1",
 		"@typescript-eslint/parser": "~5.57.1",
 		"babel-jest": "^29.5.0",
